@@ -28,7 +28,7 @@ class InstaparserClient:
         >>> print(article.body)
     """
     
-    BASE_URL = "https://www.instaparser.com"
+    BASE_URL = "https://instaparser.com"
     
     def __init__(self, api_key: str, base_url: str | None = None):
         """

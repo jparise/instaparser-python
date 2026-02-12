@@ -39,7 +39,7 @@ class TestInstaparserClientInitialization:
         """Test that client uses default base URL when not provided."""
         client = InstaparserClient(api_key=api_key)
         
-        assert client.base_url == "https://www.instaparser.com"
+        assert client.base_url == "https://instaparser.com"
 
 
 class TestInstaparserClientHandleResponse:

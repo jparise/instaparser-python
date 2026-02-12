@@ -1,6 +1,6 @@
 # Instaparser Python Library
 
-A Python client library for the [Instaparser API](https://www.instaparser.com), providing a simple and intuitive interface for parsing articles, generating summaries, and processing PDFs.
+A Python client library for the [Instaparser API](https://instaparser.com), providing a simple and intuitive interface for parsing articles, generating summaries, and processing PDFs.
 
 ## Installation
 
@@ -247,4 +247,4 @@ MIT
 
 ## Support
 
-For support, email support@instaparser.com or visit [https://www.instaparser.com](https://www.instaparser.com).
+For support, email support@instaparser.com or visit [https://instaparser.com](https://instaparser.com).

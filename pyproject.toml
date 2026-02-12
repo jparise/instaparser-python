@@ -46,8 +46,8 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://www.instaparser.com"
-Documentation = "https://www.instaparser.com/docs"
+Homepage = "https://instaparser.com"
+Documentation = "https://instaparser.com/docs"
 Issues = "https://github.com/Instapaper/instaparser-python/issues"
 
 [tool.hatch.version]
